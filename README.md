@@ -8,8 +8,6 @@
 
 I've been working with software development since 2017. Majorly working focused in QA area in agile teams. Worked on some different projects with strong experience with Streaming and Banking platforms. The most experience is in node.js using typescript.
 
-I'm QA head at [Kinect](https://www.kinect-consulting.com/).
-
 I studied Systems Analysis and Development at [Fatec-SP](http://www.fatecsp.br/).
 
 😄 Pronouns: He/Him
